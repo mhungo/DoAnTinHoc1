@@ -1,0 +1,10 @@
+D:\Hoc\DoAnTinHoc\QuanLiThuVien3\QuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.exe.config
+D:\Hoc\DoAnTinHoc\QuanLiThuVien3\QuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.exe
+D:\Hoc\DoAnTinHoc\QuanLiThuVien3\QuanLiThuVien\QuanLiThuVien\bin\Debug\QuanLiThuVien.pdb
+D:\Hoc\DoAnTinHoc\QuanLiThuVien3\QuanLiThuVien\QuanLiThuVien\obj\Debug\QuanLiThuVien.csprojAssemblyReference.cache
+D:\Hoc\DoAnTinHoc\QuanLiThuVien3\QuanLiThuVien\QuanLiThuVien\obj\Debug\QuanLiThuVien.Form1.resources
+D:\Hoc\DoAnTinHoc\QuanLiThuVien3\QuanLiThuVien\QuanLiThuVien\obj\Debug\QuanLiThuVien.Properties.Resources.resources
+D:\Hoc\DoAnTinHoc\QuanLiThuVien3\QuanLiThuVien\QuanLiThuVien\obj\Debug\QuanLiThuVien.csproj.GenerateResource.cache
+D:\Hoc\DoAnTinHoc\QuanLiThuVien3\QuanLiThuVien\QuanLiThuVien\obj\Debug\QuanLiThuVien.exe
+D:\Hoc\DoAnTinHoc\QuanLiThuVien3\QuanLiThuVien\QuanLiThuVien\obj\Debug\QuanLiThuVien.pdb
+D:\Hoc\DoAnTinHoc\QuanLiThuVien3\QuanLiThuVien\QuanLiThuVien\obj\Debug\QuanLiThuVien.DangNhap.resources
